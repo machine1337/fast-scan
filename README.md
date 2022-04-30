@@ -12,6 +12,9 @@
     * For Windows OS:
     1. Open Powershell Terminal In Windows And Type Below Command:
     2. Invoke-WebRequest -Uri https://raw.githubusercontent.com/machine1337/fast-scan/main/scan.ps1 -OutFile scan.ps1
+    
+# Demo Video:
+    https://www.youtube.com/watch?v=72StFJT76Kk
 
 # Usage:
     * For LINUX Users:-
